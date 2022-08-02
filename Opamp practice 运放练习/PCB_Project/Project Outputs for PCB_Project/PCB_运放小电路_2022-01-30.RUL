@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: D:\学习\实践\电子\杂(学习\运放小电路\PCB_Project\PCB_运放小电路_2022-01-30.pcbdoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=23.62
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
